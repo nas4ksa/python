@@ -1,5 +1,5 @@
 def liner():
-    print('...................')
+    print('abode, ali')
 
 def addtion(n1,n2):
     print(int(n1) + int(n2))
